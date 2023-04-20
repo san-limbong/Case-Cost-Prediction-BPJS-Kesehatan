@@ -1,4 +1,4 @@
-Case: BPJS Hackaton
+Comparing **Decision Tree** and **Random Forest** in Case: BPJS Hackaton
 
 Repo ini bertujuan untuk sarana pembelajaran bagi pengembang untuk mengasah kemampuan pada bidang penambangan data dengan mengambil case dari BPJS Hackaton.
 
