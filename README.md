@@ -22,4 +22,4 @@ Hasil Evaluasi Regression problem:
 - Biaya: MAE < 97000, MAPE < 70
 
 
-Lebih lanjut repo ini akan membandingkan kinerja dari algoritma decision tree dan random forest untuk menentukan evaluasi dari algoritma mana yang lebih baik.
+Lebih lanjut repo ini akan membandingkan kinerja dari algoritma **Decision Tree** dan **Random Forest** untuk menentukan evaluasi dari algoritma mana yang lebih baik.
