@@ -20,3 +20,6 @@ Kedua kategori tersebut harus dibagi menjadi data training dan data validation b
 Hasil Evaluasi Regression problem:
 - Kasus kunjungan: MAE < 900, MAPE < 90%
 - Biaya: MAE < 97000, MAPE < 70
+
+
+Lebih lanjut repo ini akan membandingkan kinerja dari algoritma decision tree dan random forest untuk menentukan evaluasi dari algoritma mana yang lebih baik.
